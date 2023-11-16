@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Lukas graham
 Taylor
 Birthe kjær
 Postmalone
+=======
+Poawdawdawstmalone
+Taylor
+>>>>>>> feature_two
